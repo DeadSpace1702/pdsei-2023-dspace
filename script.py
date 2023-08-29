@@ -1,1 +1,2 @@
-print('Hola pingon')
+print('Hola persona normal')
+print('guere tis mok teres faia')
